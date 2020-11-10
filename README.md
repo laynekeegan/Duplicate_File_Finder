@@ -1,0 +1,1 @@
+**Finding Large Duplicate Files - CS118 Project 1**
